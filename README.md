@@ -8,13 +8,6 @@ A playful, unofficial playground for wireless GPUs, built around WiCi One and In
 
 One static page, no build step. Open `index.html` in a browser to run it locally.
 
-## Deploy on GitHub Pages
-
-1. Push this folder to a repo (for example `feels-local`).
-2. In the repo, go to **Settings → Pages**.
-3. Under **Source**, pick **Deploy from a branch**, then `main` and `/ (root)`. Save.
-4. The site goes live at `https://<your-username>.github.io/feels-local/` in a minute or two.
-
 ## Notes
 
 Not affiliated with or endorsed by WiCi. Figures come from WiCi's public pages and the InferSSD repo as of November 1, 2026. How the 10x call reduction splits across the tricks, and the 16 GB weight upload, are illustrations, not benchmarks.
